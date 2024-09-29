@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate o n AI related repositories 
 - 📫 How to reach me IG- @s0yabkhansk
-- 😄 Pronouns: Soyab or SK
-- ⚡ Fun fact: chess player
+- 😄 Call me Soyab or SK
+- ⚡ Hobby chess 
 
 <!---
 soyabkhansk/soyabkhansk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
